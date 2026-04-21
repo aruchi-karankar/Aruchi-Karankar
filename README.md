@@ -1,4 +1,4 @@
-# Hi 👋 I'm Aruchi
+# Hi...I'm Aruchi
 
 💻 Java Developer | Spring Boot & Backend Development
 
