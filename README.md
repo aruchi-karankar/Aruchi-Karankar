@@ -1,40 +1,53 @@
-# Hi...I'm Aruchi
+Hi, I'm Aruchi
 
-💻 Java Developer | Spring Boot & Backend Development
-
----
+💻 Software Tester | Manual Testing | Java & API Testing
 
 ## 💼 Experience
 
-* Java Developer Intern at PSA Infotech
-  (Jan 2026 – Apr 2026)
-  Worked on backend development and REST APIs using Java and Spring Boot.
+Software Testing Intern at PSA Infotech
+(Jan 2026 – May 2026)
+
+Performed Manual Testing for web-based applications
+Tested application functionalities, UI, and user workflows
+Created and executed test cases and test scenarios
+Performed API Testing using Postman
+Identified, tracked, and reported bugs/issues
+Worked with Java-based applications and backend functionalities
+Participated in Regression Testing and Functional Testing
 
 ---
 
-##  Skills
+## 🛠 Skills
 
-### 💻 Backend
+Software Testing
+Manual Testing
+Functional Testing
+Regression Testing
+API Testing
+Test Case Writing
+Bug Reporting
 
-* Java
-* Spring Boot
-* JDBC
-* REST APIs
+---
 
-### 🗄️ Database
+## 💻 Technical Skills
+Java
+JDBC
+REST APIs
+MySQL
 
-* MySQL
+---
 
-### 🌐 Frontend
+## 🌐 Frontend Knowledge
+HTML
+CSS
+JSP
 
-* HTML
-* CSS
-* JSP
+---
 
-###  Tools
-
-* Postman
-* Git & GitHub
+## 🔧 Tools
+Postman
+Git & GitHub
+Eclipse IDE
 
 ---
 
