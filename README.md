@@ -1,4 +1,4 @@
-## Hi, I'm Aruchi
+## Hi, I'm Aruchi Karankar
 
 💻 Software Tester | Manual Testing | Java & API Testing
 
