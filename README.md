@@ -1,4 +1,4 @@
-Hi, I'm Aruchi
+## Hi, I'm Aruchi
 
 💻 Software Tester | Manual Testing | Java & API Testing
 
@@ -46,14 +46,13 @@ Software Testing Intern at PSA Infotech
 
 ## 🔧 Tools
 * Postman
-* Git & GitHub
 * Eclipse IDE
 
 ---
 
 ## 📌 Projects
 
-* Doctor Appointment System (Spring Boot + MySQL)
+* Doctor Appointment System (Java + MySQL)
 * Hardware Shopping System (JSP + JDBC + MySQL)
 
 ---
